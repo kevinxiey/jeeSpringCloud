@@ -1,11 +1,10 @@
 ﻿#JeeSpringCloud
 
-帮忙标星、点赞，申请码云最有价值开源项
+JeeSpringCloud码云最有价值开源项
 https://gitee.com/JeeHuangBingGui/jeeSpringCloud
 
 演示版地址：http://yocity.imwork.net:10858/admin?login<br>
-官网地址：https://jeespring.icoc.bz/<br>
-论坛社区：<a href="https://jeespring.kf5.com/hc/community/topic/" target="_blank">https://jeespring.kf5.com/hc/community/topic/</a><br>
+ JeeSpring官方QQ群：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=b07802df867a4047251ac62b35698ed2d94b31f95599609eff4eabcbe361c402">328910546</a><br>
 有部分功能会提示：演示版启用为系统能正常演示，暂时不允许操作！<br>
 模块包含定时任务调度、服务器监控、平台监控、异常邮件监控、服务器Down机邮件监控、平台设置、开发平台、邮件监控、图表监控、地图监控、单点登录、Redis分布式高速缓存、<br>
 ActiveMQ队列、会员、营销、在线用户、日志、在线人数、访问次数、调用次数、直接集群、接口文档、生成模块、代码实例、安装视频、教程文档、dubbo（待开发）、springCloud、<br>
